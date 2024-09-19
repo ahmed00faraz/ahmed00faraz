@@ -1,15 +1,14 @@
 <h1 align="center">Hi there, I'm Faraz 👋</h1>
 <h3 align="center">Java Full Stack Developer | Machine Learning enthusiast | Exploring DevOps </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-faraz-04314a239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
-  </a>
-  <a href="mailto:ahmed00faraz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail&labelColor=green" alt="Email">
-  </a>
-  </a>
-</p>
+### Connect With Me
+[<img align="left" alt="Ahmed Faraz | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Ahmed Faraz | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Ahmed Faraz | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Ahmed Faraz | WhatsApp" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+
+<br />
+<br />
 
 <p align="center">
   <h4>👀 Passionate about Machine Learning and Data Science.</h4>
@@ -78,3 +77,11 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=ahmed00faraz&theme=gruvbox" alt="GitHub Trophies">
 </p>
+
+
+
+[whatsapp]: https://wa.me/+917976524328
+[mail]: mailto:ahmed00faraz@gmail.com
+[twitter]: https://twitter.com/ahmed00faraz
+[linkedin]: https://www.linkedin.com/in/ahmed-faraz-04314a239/
+[github]: https://github.com/ahmed00faraz
