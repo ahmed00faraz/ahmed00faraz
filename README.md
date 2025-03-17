@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Faraz 👋</h1>
-<h3 align="center">Java Full Stack Developer | Machine Learning enthusiast | Exploring DevOps </h3>
+<h3 align="center">Java Full Stack Developer | Machine Learning enthusiast | Exploring Angular19 </h3>
 
 ### Connect With Me
 [<img align="left" alt="Ahmed Faraz | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
@@ -12,8 +12,8 @@
 
 <p align="center">
   <h4>👀 Passionate about Machine Learning and Data Science.</h4>
-  <h4>🌱 Exploring the fascinating world of DevOps.</h4>
-  <h4>💞 Open to collaborations in Full Stack, ML, Data Science, and Devops projects</h4>
+  <h4>🌱 Exploring the fascinating world of FrontEnd Frameworks</h4>
+  <h4>💞 Open to collaborations in Full Stack, ML, Data Science, and Computer Vision projects</h4>
   <h4>⚡ Fun fact: None🫡 </h4>
 </p>
 
